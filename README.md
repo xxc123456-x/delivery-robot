@@ -130,7 +130,7 @@ robot_server.py (Flask + rosbridge)
 |------|------|
 | 主控 | RK3588 (6TOPS NPU) |
 | 系统 | Ubuntu 22.04 |
-| ROS2 | Foxy |
+| ROS2 | .Foxy |
 | 相机 | Orbbec Astra Pro |
 | 激光 | RPLIDAR 360° |
 | 底盘 | STM32 控制 4× 麦克纳姆轮 |
